@@ -1,2 +1,3 @@
-# projet1
- création d'une branche avant l'arbre
+# Projet python 
+ 
+ Graphique Loans est une fonction permettant de générer un graphique par société en renseignant le num de la société en paramètre
